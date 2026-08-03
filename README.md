@@ -13,7 +13,7 @@
 <tr>
 <td>
 
-> `名字` <b style="color:#B026FF;">灼眼</b> —— 源自 <a href="https://baike.baidu.com/item/%E7%81%BC%E7%9C%BC%E7%9A%84%E5%A4%8F%E5%A8%9C/24451" target="_blank"><b>灼眼的夏娜</b></a>「灼眼のシャナ」—— 与火之刃同在，燃尽一切迷惘的证明！
+> `名字` <b style="color:#B026FF;">灼眼者</b> —— 源自 <a href="https://baike.baidu.com/item/%E7%81%BC%E7%9C%BC%E7%9A%84%E5%A4%8F%E5%A8%9C/24451" target="_blank"><b>灼眼的夏娜</b></a>「灼眼のシャナ」—— 与火之刃同在，燃尽一切迷惘的证明！
 >
 > `头像` 来自《空の軌跡》的 <a href="https://baike.baidu.com/item/%E5%A5%A5%E5%88%A9%E7%BB%B4%E5%B0%94%C2%B7%E6%9C%97%E6%B5%B7%E5%A7%86/373358" target="_blank"><b>奥利维尔·朗海姆</b></a> —— 优雅、洒脱、永远留有余裕的浪漫主义者。
 
